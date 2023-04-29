@@ -5,7 +5,7 @@
 
 :bulb:This is the space where I spend most of my time where imagination and creativity turn into code.:calling:
 
- :books:Student(DEV-Club)
+ :books:Socio (DEV-Club)
 
 <br>
 
