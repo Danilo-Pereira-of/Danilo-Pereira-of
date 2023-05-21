@@ -16,7 +16,7 @@
          <img align="left" alt="icone do instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   
-  <a href="#">
+  <a href="https://www.linkedin.com/in/danilo-pereira-dev/">
 <img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
     <br>
